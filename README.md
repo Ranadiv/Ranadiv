@@ -16,6 +16,7 @@
  - Working on Data Analysis
  - Laptop is on and working on Hacktoberfest.
 
+[![Divya github stats](https://github-readme-stats.vercel.app/api?username=Ranadiv&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <!-- #### Do you have any blog?
 Yup we got you covered i am too much excited.
 There is a too long story how this came to life. The story will be in about section. Wanna visit, just click on this👇👇.
