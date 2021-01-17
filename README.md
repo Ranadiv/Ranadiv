@@ -13,8 +13,8 @@
  - What I hate most: Slow **WiFi**,  ~~silly spelling mistgiitake~~, Some difference between **IOS** <img src="src/IOS.png" width="25">  & **OS** <img src="src/OS.png" width="25"> 
 
 #### What's going on?
- - Started with  Angular.
- - Working on Javascript and Django.
+ - Started with  Javascript.
+ - Working on Framework(Angular) and Python.
 
 
 [![Divya github stats](https://github-readme-stats.vercel.app/api?username=Ranadiv&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
