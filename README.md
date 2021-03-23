@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-<!-- <p align="center">
-<img src="../../blob/master/src/avatars.png" alt="Avatar"/>
-</p> -->
+ <p align="center">
+<img src="src/avatar.png" alt="Avatar" width ="90px"/>
+</p> 
 
 - I'm DIVYA PRATAP SINGH 🧒🏻 (Same on right) I write code </> on VISUAL STUDIO CODE <img src="src/vs code.png" width="25"> .
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ranadiv&theme=radical" alt="Top Lang" align="right"/>
