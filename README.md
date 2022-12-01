@@ -4,7 +4,7 @@
 <img src="src/avatar.png" alt="Avatar" width ="90px"/>
 </p> 
 
-- I'm DIVYA PRATAP SINGH 🧒🏻 (Same on right) I write code </> on VISUAL STUDIO CODE <img src="src/vs code.png" width="25"> .
+- I'm DIVYA PRATAP SINGH 🧒🏻 (Same on Left) I write code </> on VISUAL STUDIO CODE <img src="src/vs code.png" width="25"> .
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ranadiv&theme=radical" alt="Top Lang" align="right"/>
 
  - 🔭 I’m currently working💼 on my own project. 📝🌳🌲 (Be sure to give a star⭐️❤️.)
