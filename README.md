@@ -14,7 +14,7 @@
 
 #### What's going on?
  - Started with  Javascript.
- - Working on Framework(Angular) and Python.
+ - Working on Javascript, Swift and Python.
 
 
 [![Divya github stats](https://github-readme-stats.vercel.app/api?username=Ranadiv&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
